@@ -3,8 +3,8 @@
 # Date: September 25, 2019
 # Data analyzed in this session are from the US Geological Survey and include total 
 # nitrogen (N) and phosphorus (P) mass (kg) applied to the land surface via fertilizer
-# manure, and atmospheric deposition in the years 1982, 1987, 1992, and 1997.  Measurements 
-# are reported at the county-scale across the US. The total land areas (sq. km) over which 
+# manure, and atmospheric deposition in the years 1982, 1987, 1992, and 1997.   
+# Measurements are at the county-scale across the US. The total land areas (sq. km) over which 
 # nutrients were applied are also reported per county. The data can be accessed from USGS 
 # Scientific Investigations Report  2006-5012, "County-Level Estimates of Nutrient Inputs 
 # to the Land Surface of the Conterminous United States, 1982-2001" 
